@@ -1,0 +1,39 @@
+{
+  "raw_rows": 1000,
+  "cleaned_rows": 1000,
+  "duplicate_invoice_ids_removed": 0,
+  "missing_values_after_cleaning": 0,
+  "total_sales_usd": 322966.75,
+  "total_gross_income_usd": 15379.37,
+  "avg_rating": 6.97,
+  "avg_transaction_usd": 322.97,
+  "sales_by_branch": {
+    "A": 106200.37,
+    "B": 106197.67,
+    "C": 110568.71
+  },
+  "sales_by_product_line": {
+    "Food and beverages": 56144.84,
+    "Sports and travel": 55122.83,
+    "Electronic accessories": 54337.53,
+    "Fashion accessories": 54305.9,
+    "Home and lifestyle": 53861.91,
+    "Health and beauty": 49193.74
+  },
+  "sales_by_payment": {
+    "Cash": 112206.57,
+    "Credit card": 100767.07,
+    "Ewallet": 109993.11
+  },
+  "sales_by_customer_type": {
+    "Member": 164223.44,
+    "Normal": 158743.3
+  },
+  "top_product_line": "Food and beverages",
+  "best_branch": "C",
+  "monthly_sales": {
+    "2019-01": 116291.87,
+    "2019-02": 97219.37,
+    "2019-03": 109455.51
+  }
+}
